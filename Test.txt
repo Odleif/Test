@@ -5,5 +5,7 @@ Pink
 Orange
 Green
 Bladibla
+Rain
+Sunlight
 
 Farger.
